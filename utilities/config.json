@@ -1,0 +1,8 @@
+{
+    "dataset_folder": "../dataset",
+    "files": [
+      { "url": "https://drive.google.com/uc?id=1atKYBZ9Pq3-zT0_BC_nZqMx0W-wjEW01", "file_name": "train.jsonl" },
+      { "url": "https://drive.google.com/uc?id=1FhT3m_ApKzX615JzshB5-d-j6S91-6oz", "file_name": "valid.jsonl" },
+      { "url": "https://drive.google.com/uc?id=16p0td9GgJRb9AP8i4HlX-xZGI2u849uA", "file_name": "test.jsonl" }
+    ]
+  }

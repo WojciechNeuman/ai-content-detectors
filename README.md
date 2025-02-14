@@ -1,7 +1,7 @@
 ## Description
 
 This repository contains the codebase for my thesis made at the AGH University of Krakow, titled **"Comparative Evaluation of Methods for Classifying Human-Written and AI-Generated Text."**
-The research was carried out under the supervision of Dr. Eng. Krzysztof Kluza.
+The research was carried out under the supervision of Dr. Eng. Krzysztof Kluza and is a continuation of work done by [AuTexTification](https://github.com/WojciechNeuman/autextification) Team at the Universitat Politècnica de València.
 
 
 ## Technologies Used
